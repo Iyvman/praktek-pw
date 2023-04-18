@@ -1,0 +1,5 @@
+1. web adalah merupakan dokumen yang ditulis dalam format HTML(Hyper Text Markup Lenguage), yang hampir selalu bisa di akss melalui HTTP
+2. URI (Unit Resource Identifer) merupakan identifikasi sumber daya dari internet dan 
+    URL (Unit Resourece Locator) merupakan indentifikasi lokasi dari sumber daya internet
+3. heading tag (<h1>s/d<h6>), paragraf tag <p>, Enter tag <br>
+4. DOCTYPE merupakan tag yang digunakan untuk menjelaskan jenis file yang digunakan  termasuk ke dalam jenis file HTML
